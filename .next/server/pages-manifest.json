@@ -1,1 +1,10 @@
-{"/_app":"static/development/pages/_app.js","/_document":"static/development/pages/_document.js","/_error":"static/development/pages/_error.js","/post":"static/development/pages/post.js","/post/[pid]":"static/development/pages/post/[pid].js"}
+{
+  "/_app": "static/ll7fsvhuzkXN0PUp-yeOe/pages/_app.js",
+  "/_document": "static/ll7fsvhuzkXN0PUp-yeOe/pages/_document.js",
+  "/_error": "static/ll7fsvhuzkXN0PUp-yeOe/pages/_error.js",
+  "/index": "static/ll7fsvhuzkXN0PUp-yeOe/pages/index.html",
+  "/post": "static/ll7fsvhuzkXN0PUp-yeOe/pages/post.html",
+  "/post/[pid]": "static/ll7fsvhuzkXN0PUp-yeOe/pages/post/[pid].html",
+  "/": "static/ll7fsvhuzkXN0PUp-yeOe/pages/index.html",
+  "/404": "static/ll7fsvhuzkXN0PUp-yeOe/pages/404.html"
+}

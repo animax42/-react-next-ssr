@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nimport Link from 'next/link';\n\nfunction WelcomePost() {\n  return React.createElement(Link, {\n    href: \"/post/[pid]\",\n    as: \"/post/abc\"\n  }, React.createElement(\"a\", null, \"Welcome to my post!\"));\n}\n\nexport default WelcomePost;","map":null,"metadata":{},"sourceType":"module"}
